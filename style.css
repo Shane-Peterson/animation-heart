@@ -20,7 +20,7 @@ body {
   position: absolute;
   bottom: 100%;
   left: 100%;
-  transform: rotate(45deg) translateY(31px);
+  transform: rotate(45deg) translate(-0.5px, 31px);
   border-radius: 50% 50% 0px 0px;
 }
 .heart > .left {
